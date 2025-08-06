@@ -4,7 +4,7 @@ version = "1.0.0"
 authors = []
 
 [addresses]
-truepass = "_"
+truepass = "0x96d4644bb67e1395a113b32e21ae870b01e70a9c1899bd891202adaa6fb0b47e"
 
 [dev-addresses]
 
